@@ -1,0 +1,28 @@
+# organization:
+#  - Optum
+#  - OMG
+#  - LTC
+
+# Education: ['Chaitanya','Narayana','Krishnaveni','HRD']
+
+# Favorite movies:
+#  - Casablanca
+#  - North by Northwest
+#  - The Man Who Wasn't There
+
+# Shopping list: [milk, groceries, eggs, juice, fruits]
+
+# men: [John Smith, Bill Jones]
+# women:
+#   - Mary Smith
+#   - Susan Williams
+
+# a:
+#  b:
+#   - c
+#   -  d
+#   - e
+# f:
+#  "ghi"
+
+# --- !clarkevans.com/^invoice
