@@ -1,3 +1,0 @@
-Fix bug in file2
-Squash and Merge file2
-Rebase2
