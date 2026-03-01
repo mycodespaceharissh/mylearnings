@@ -1,3 +1,0 @@
-Add validation in file1
-Squash and Merge file1
-Rebase1
